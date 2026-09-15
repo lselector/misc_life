@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Download the images used by kettlebell_guide.md.
+Download the images used by KETTLEBELL_GUIDE.md.
 
 Two sources are used. Technique photographs come from
 Wikimedia Commons and are freely licensed, mostly CC BY-SA
@@ -103,6 +103,8 @@ PHOTOS = [
     ("snatch-physics",
      f"{WM}/thumb/1/1a/Snatch_Physics_by_Cavemantraining"
      ".jpg/960px-Snatch_Physics_by_Cavemantraining.jpg"),
+    ("pavel-portrait",
+     f"{WM}/a/a4/Pavel-tsatsouline.png"),
 ]
 
 # Video thumbnails: (local name, YouTube video id)
@@ -126,6 +128,8 @@ THUMBNAILS = [
     ("video-around-the-world", "N4mMVG8S5Kg"),
     ("video-atlas-swing", "ZXq_vq-F66c"),
     ("video-turkish-get-up", "5kb9Blkrj2w"),
+    ("video-pavel-big-three", "6EX7nlyX4nY"),
+    ("video-pavel-20-minute", "E0IOzN4AV7w"),
 ]
 
 # Best first: YouTube serves 404 for sizes it does not have

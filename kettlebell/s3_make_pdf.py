@@ -2,7 +2,7 @@
 """
 Render a Markdown file to PDF.
 
-Converts kettlebell_guide.md to kettlebell_guide.pdf using
+Converts KETTLEBELL_GUIDE.md to KETTLEBELL_GUIDE.pdf using
 the Python markdown library for the HTML and WeasyPrint for
 the page layout. Styling lives in styles.css, not in here, so
 the look can be changed without editing Python. The page is
@@ -29,7 +29,7 @@ import re
 import sys
 from datetime import datetime
 
-DEFAULT_INPUT = "kettlebell_guide.md"
+DEFAULT_INPUT = "KETTLEBELL_GUIDE.md"
 STYLESHEET = "styles.css"
 EXTENSIONS = [
     'tables', 'fenced_code', 'sane_lists', 'attr_list', 'toc'

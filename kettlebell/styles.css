@@ -1,5 +1,5 @@
 /*
- * Print styles for kettlebell_guide.pdf.
+ * Print styles for KETTLEBELL_GUIDE.pdf.
  * Used by s3_make_pdf.py through WeasyPrint.
  * US Letter, 0.7 inch margins on all four sides.
  * Created: 2026-09-08. Last updated: 2026-09-08.
@@ -57,6 +57,13 @@ h1 {
     border-bottom: 3px solid #b5561e;
 }
 
+/* Any heading marked {: .new-page } starts its own page. */
+.new-page {
+    break-before: page;
+    page-break-before: always;
+    margin-bottom: 0.5em;
+}
+
 h2 {
     font-size: 15pt;
     margin: 1.4em 0 0.5em 0;
@@ -94,12 +101,6 @@ h2#contents + ul {
     line-height: 1.45;
     list-style: none;
     padding-left: 0.2em;
-}
-
-h2#contents + ul ul {
-    padding-left: 1.2em;
-    font-size: 9pt;
-    color: #555;
 }
 
 /* -------------------------------------------- tables */

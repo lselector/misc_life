@@ -1,46 +1,158 @@
-# Kettlebell Guide: 19 Exercises, Ranked
+# Kettlebell Guide
 
 ## Contents
 
+- [The Pavel Tsatsouline method](#the-pavel-tsatsouline-method) -
+  [His big three](#his-big-three);
+  [The twenty minute plan after fifty](#the-twenty-minute-plan-after-fifty)
+- [1 Kettlebell, 4 Moves, 3x per week](#1-kettlebell-4-moves-3x-per-week)
+- **[Nineteen Kettlebell Exercises Ranked](#nineteen-kettlebell-exercises-ranked)**
 - [How the ranking works](#how-the-ranking-works)
 - [The ranking at a glance](#the-ranking-at-a-glance)
-- [Things every lift depends on](#things-every-lift-depends-on)
-    - [The bell itself](#the-bell-itself)
-    - [Grip](#grip)
-    - [The hinge](#the-hinge)
-    - [The rack](#the-rack)
-    - [Breathing and bracing](#breathing-and-bracing)
-- [S tier](#s-tier)
-    - [Goblet squat](#goblet-squat)
-    - [Press](#press)
-    - [Full snatch](#full-snatch)
-    - [Clean and jerk (long cycle)](#clean-and-jerk-long-cycle)
-    - [Jerk](#jerk)
-    - [Pendulum swing](#pendulum-swing)
-- [A tier](#a-tier)
-    - [Clean](#clean)
-    - [Hardstyle swing](#hardstyle-swing)
-    - [Half snatch](#half-snatch)
-    - [Deadlift](#deadlift)
-- [B tier](#b-tier)
-    - [Lunge](#lunge)
-    - [Row](#row)
-- [C tier](#c-tier)
-    - [Suitcase carry](#suitcase-carry)
-    - [Thruster](#thruster)
-- [D tier](#d-tier)
-    - [Windmill](#windmill)
-- [E tier](#e-tier)
-    - [Bench press](#bench-press)
-    - [Around the world](#around-the-world)
-    - [Atlas swing](#atlas-swing)
-    - [Turkish get-up](#turkish-get-up)
+- [Things every lift depends on](#things-every-lift-depends-on) -
+  [The bell itself](#the-bell-itself); [Grip](#grip);
+  [The hinge](#the-hinge); [The rack](#the-rack);
+  [Breathing and bracing](#breathing-and-bracing)
+- [S tier](#s-tier) - [Goblet squat](#goblet-squat);
+  [Press](#press); [Full snatch](#full-snatch);
+  [Clean and jerk (long cycle)](#clean-and-jerk-long-cycle);
+  [Jerk](#jerk); [Pendulum swing](#pendulum-swing)
+- [A tier](#a-tier) - [Clean](#clean);
+  [Hardstyle swing](#hardstyle-swing);
+  [Half snatch](#half-snatch); [Deadlift](#deadlift)
+- [B tier](#b-tier) - [Lunge](#lunge); [Row](#row)
+- [C tier](#c-tier) - [Suitcase carry](#suitcase-carry);
+  [Thruster](#thruster)
+- [D tier](#d-tier) - [Windmill](#windmill)
+- [E tier](#e-tier) - [Bench press](#bench-press);
+  [Around the world](#around-the-world);
+  [Atlas swing](#atlas-swing); [Turkish get-up](#turkish-get-up)
 - [Putting it together](#putting-it-together)
 - [Video library](#video-library)
 - [Image credits](#image-credits)
 - [Reference links](#reference-links)
 
 ---
+
+## The Pavel Tsatsouline method
+
+Pavel Tsatsouline carried the kettlebell out of Soviet military
+and girevoy circles, sold it first to American special forces and
+then to everybody else, and founded StrongFirst. His picks open
+this guide because they are the shortest useful answer to what a
+kettlebell is for: three exercises, or five if you want a whole
+program in twenty minutes.
+
+| Pavel Tsatsouline | The big three (click) | The 20 minute plan (click) |
+|---|---|---|
+| ![Pavel Tsatsouline](images/pavel-portrait.jpg) | [![The only 3 kettlebell exercises you need](images/video-pavel-big-three.jpg)](https://www.youtube.com/watch?v=6EX7nlyX4nY) | [![The only 20 minute kettlebell plan you need after 50](images/video-pavel-20-minute.jpg)](https://www.youtube.com/watch?v=E0IOzN4AV7w) |
+
+### His big three
+
+All three start at [the hinge](#the-hinge), and he will not let
+anyone past it: hips back, spine neutral, the way you shut a car
+door with your backside when both hands are full of groceries.
+
+| Exercise | How it goes | Why he picks it | Watch for |
+|---|---|---|---|
+| **Overspeed eccentric swing** | Snap the hips, then throw the bell back down between the legs as hard as you can instead of waiting for gravity to bring it home. | Force plate work he cites has a spiked 53 lb bell landing like 500 lb, so the tendons take loading you could never safely hold, and only for a fraction of a second. | An advanced swing. Earn it in order: hinge, sumo deadlift, ordinary swing, then this. |
+| **One-legged deadlift** | Stand on one leg, bell in the opposite hand, hinge forward, stand back up. | Tactical teams who kept tearing hamstrings stopped once it went into the training. The big movers were strong, the stabilizers around hip, knee and ankle were asleep. | The load is not the point. Past fifty this is the fall-prevention lift. |
+| **Snatch** | Ground to overhead in one movement, fast enough that the bell flies up rather than gets lifted. | Speed first, then conditioning he describes as sprinting without running, then a thoracic spine that stays open instead of hunching forward. | A less democratic exercise, in his words. Like the parallel bar dip, you either have the shoulder for it or you wait. |
+
+| Overspeed: attack the floor | One-legged deadlift | Snatch lockout |
+|---|---|---|
+| ![Bottom of the backswing](images/swing-backswing.jpg) | ![One-legged kettlebell deadlift, start and bottom position](images/one-leg-deadlift.jpg) | ![Kettlebell locked out overhead](images/half-snatch-lockout.jpg) |
+
+**The what the hell effect** is his name for what happens next.
+Train mostly swings for a few months and the golf drive goes
+thirty yards further, or you clear a fence at sixty without
+planning it first. Everyone asks the same question, which is what
+the hell happened, I only did swings. His answer is unglamorous.
+The swing trains power and the hinge pattern at once, and nearly
+everything athletic runs on that pattern.
+
+### The twenty minute plan after fifty
+
+Five exercises, one bell, three mornings a week. Start at 8 to
+12 kg, which is 18 to 26 lb, and lighter if you are coming back
+from an injury. Reaching for the big bell to prove a point is the
+usual way this ends in a month off. Warm up for two or three
+minutes first: leg swings, arm circles, a few bodyweight squats.
+
+| # | Exercise | Reps | The cue that matters |
+|---|---|---|---|
+| 1 | Sumo deadlift | 8 to 10 | Sit back, do not squat down |
+| 2 | Towel swing | 10 to 15 | Slack towel means your arms took over |
+| 3 | Halo | 5 each way | Glutes tight, circles get tighter |
+| 4 | Row | 8 to 10 per side | Pull from the armpit |
+| 5 | Seated floor press | 8 to 10 per side | Nothing to arch against |
+
+| Sumo deadlift | Towel swing | Halo | Row | Seated press |
+|---|---|---|---|---|
+| [![How to kettlebell deadlift](images/video-deadlift.jpg)](https://www.youtube.com/watch?v=-N4NjwW7bGA) | [![Towel swing, towel and bell in one line](images/towel-swing.jpg)](https://www.youtube.com/watch?v=ZYgRuQoh6Qc) | [![Kettlebell halo, three phases around the head](images/halo.jpg)](https://www.youtube.com/watch?v=LEjVh4scVy4) | [![Single arm bent kettlebell row](images/video-row.jpg)](https://www.youtube.com/watch?v=8gg400ddt-g) | [![Seated kettlebell press to lockout](images/seated-press.jpg)](https://www.youtube.com/watch?v=4ULa6AJcjr8) |
+
+Click any tile above for that exercise's tutorial.
+
+The towel is the clever part. Loop it through the handle, hold
+both ends, and your arms can no longer cheat: the moment the
+shoulders start muscling the bell up, the towel goes slack and
+tells on you. His one safety rule stands on its own. Never
+contest the space with a kettlebell. If it starts pulling
+forward, let go of it.
+
+**The circuit.** All five back to back, 15 to 30 seconds between
+exercises, then 60 to 90 seconds at the end. Two rounds. Monday,
+Wednesday and Friday with a rest day in between, because after
+fifty it is recovery rather than effort that limits progress.
+When it gets easy, add time under load instead of weight: pause
+two seconds at the bottom of the deadlift, lower the row on a
+slow three count, hold the press locked out for a second.
+
+## 1 Kettlebell, 4 Moves, 3x per week {: .new-page }
+
+This one is called the Core Four, from coach James of What
+Pertains to James. One bell, four moves, 10 reps of each done
+back to back. That is one round. Repeat until the session is
+over. It is the workout he gives all his clients, and the whole
+program fits on an index card.
+
+Video: [1 Kettlebell, 4 Moves, 3x per week](https://www.youtube.com/watch?v=urXeFl7ZDP8),
+<https://www.youtube.com/watch?v=urXeFl7ZDP8>
+
+| Move, 10 reps each | What it works | Notes |
+|---|---|---|
+| 1. Thruster | Quads, shoulders, triceps, upper chest, with the core braced the whole time | The hardest of the four, so it goes first |
+| 2. Row | Back, biceps, forearms | Five per side. Pull-ups work instead |
+| 3. Push-up | Chest, shoulders, triceps | Plain push-ups here, though kettlebell push-ups are his favorite for chest strength |
+| 4. Swing | The posterior chain, as a ballistic finisher | Deadlifts or snatches can stand in |
+
+| 1. Thruster | 2. Row | 3. Push-up | 4. Swing |
+|---|---|---|---|
+| ![Double kettlebell thruster, squat and overhead](images/core-four-thruster.jpg) | ![One-arm kettlebell row, top and bottom](images/core-four-row.jpg) | ![Push-up, top and bottom](images/core-four-push-up.jpg) | ![Kettlebell swing, backswing and top](images/core-four-swing.jpg) |
+
+**Programming.** Three sessions a week, 30 minutes each, which
+he calls his 3 by 30 system. Rest between rounds as long as you
+need. That usually works out to five to eight rounds. In the
+video he uses a 24 kg bell, 53 lb, and most days gets through
+seven or eight.
+
+**Why it works.** The four moves cover the main patterns of the
+body. Thrusters and push-ups are the lower and upper push, swings
+and rows the lower and upper pull. With a heavy enough bell it
+builds real muscle, the legs especially. It also doubles as
+cardio. His answer to people who ask what he does for cardio is
+to ask whether they are doing the workout.
+
+**Adjusting it.** If your chest is sore, drop the push-ups for a
+session. Sore hamstrings, drop the swings. As you get stronger,
+add reps to one move rather than to all of them, swings being the
+usual candidate. His advice to beginners is to change nothing for
+the first few months and just show up three times a week.
+
+Technique for the [thruster](#thruster), the [row](#row) and the
+[swing](#hardstyle-swing) is covered later in this guide.
+
+# Nineteen Kettlebell Exercises Ranked {: .new-page }
 
 ## How the ranking works
 
@@ -719,8 +831,10 @@ session opens with the prying goblet squat and a few halos.
 Swings and get-ups, alternating, five days a week, thirty minutes
 total. This is Pavel Tsatsouline's Simple and Sinister and it works
 despite ignoring most of this list. Note that it leans hard on the
-get-up, which this guide ranks last, and it still works. Rankings are
-a starting point, not a law.
+get-up, which this guide ranks last, and it still works. Two lifts
+from [his twenty minute plan](#the-twenty-minute-plan-after-fifty),
+the one-legged deadlift and the halo, are not in the nineteen at
+all. Rankings are a starting point, not a law.
 
 **Kettlebell sport.**
 Long cycle and snatch, trained in timed sets that grow from two
@@ -794,6 +908,9 @@ Every link verified in September 2026.
 | Turkish get-up | [The Turkish Get Up (step by step)](https://www.youtube.com/watch?v=5kb9Blkrj2w) | Zack Henderson |
 | Turkish get-up | [The Turkish Get-Up: The Ultimate Tutorial](https://www.youtube.com/watch?v=lpltjWHd0ek) | Cat & Chau |
 | Turkish get-up | [Turkish Get-Up: 2-Minute Complete Tutorial](https://www.youtube.com/watch?v=JFrItinMcyQ) | Cat & Chau |
+| Pavel method | [The Only 3 Kettlebell Exercises You Need for Insane Strength at Any Age](https://www.youtube.com/watch?v=6EX7nlyX4nY) | Health Reveal |
+| Pavel method | [The Only 20 Minute Kettlebell Plan You Need After 50 (Pavel Method)](https://www.youtube.com/watch?v=E0IOzN4AV7w) | Health Reveal |
+| Core Four | [1 Kettlebell, 4 Moves, 3x per week](https://www.youtube.com/watch?v=urXeFl7ZDP8) | What Pertains to James |
 
 ---
 
@@ -802,7 +919,15 @@ Every link verified in September 2026.
 The technique photographs come from Wikimedia Commons. Most were
 taken by Taco Fleur of Cavemantraining and are licensed CC BY-SA 4.0.
 The Turkish get-up photo is by robertwilson009, also CC BY-SA 4.0.
-The competition bells photo is by Knuckles, CC BY-SA 3.0.
+The competition bells photo is by Knuckles, CC BY-SA 3.0. The
+portrait of Pavel Tsatsouline is by K931, CC BY-SA 4.0.
+
+Four demonstration photos in the Pavel section, showing the
+one-legged deadlift, the towel swing, the halo and the seated
+press, were supplied by the author rather than drawn from
+Commons. So were the Core Four pictures of the thruster, row and
+swing. The Core Four push-up drawing is by Everkinetic, CC BY-SA
+3.0, two frames from Commons stacked into one picture.
 
 The remaining pictures are YouTube video thumbnails, shown as
 clickable links to the videos they belong to. Click any of them to
